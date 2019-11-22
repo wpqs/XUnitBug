@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitBugLib", "XUnitBugLib\XUnitBugLib.csproj", "{A75CE955-95FF-44D4-A8BA-F5E9CB425CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitBugLibTest", "XUnitBugLibTest\XUnitBugLibTest.csproj", "{05A46D06-65B4-4429-80B5-3906294C61C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A75CE955-95FF-44D4-A8BA-F5E9CB425CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75CE955-95FF-44D4-A8BA-F5E9CB425CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75CE955-95FF-44D4-A8BA-F5E9CB425CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75CE955-95FF-44D4-A8BA-F5E9CB425CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A46D06-65B4-4429-80B5-3906294C61C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A46D06-65B4-4429-80B5-3906294C61C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A46D06-65B4-4429-80B5-3906294C61C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A46D06-65B4-4429-80B5-3906294C61C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36229E87-CD6F-470B-9FCB-0297ADFC4CF6}
+	EndGlobalSection
+EndGlobal
